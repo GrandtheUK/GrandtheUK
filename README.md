@@ -1,4 +1,3 @@
-### Hi there 👋
 # About Me
 I'm Benjamin, and I'm a softare engineering student in the United Kingdom.
 
